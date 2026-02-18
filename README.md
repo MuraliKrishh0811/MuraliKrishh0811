@@ -23,6 +23,3 @@ I am an Computer Science graduate student at The University of Texas at Dallas. 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-⚡ **Fun Fact:** When I'm not coding, I'm likely exploring new places as a Level 5 Google Maps Local Guide, tracking down the best biryani in Texas, or following the latest updates in the FIFA World Cup!
