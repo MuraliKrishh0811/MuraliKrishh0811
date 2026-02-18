@@ -1,7 +1,5 @@
 # Hi there, I'm Muralidharan Krishnakumar! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=[MuraliKrishh0811]&color=blue&style=flat-square&label=Profile+Views)
-
 I am an Computer Science graduate student at The University of Texas at Dallas. I am passionate about leveraging technology to solve complex problems, with a current focus on Artificial Intelligence, Cloud Computing, and CyberSecurity. 
 
 ### 🔭 What I'm currently working on
