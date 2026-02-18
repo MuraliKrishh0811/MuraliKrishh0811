@@ -8,12 +8,21 @@ I am an Computer Science graduate student at The University of Texas at Dallas. 
 * Building out my portfolio with projects focused on AI and data-driven solutions.
 
 ### 🌱 My Tech Stack & Tools
-<p align="left">
+
+**Languages & Databases** <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AI_%2F_ML-FF6F00?style=for-the-badge&logo=c&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Cybersecurity-1A1918?style=for-the-badge&logo=c&logoColor=white" alt="Cybersecurity" />
+</p>
+
+**Cloud & Infrastructure** <p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+**Core Competencies** <p align="left">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-005B9F?style=for-the-badge&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1A1918?style=for-the-badge&logoColor=white" alt="Cybersecurity" />
 </p>
 
 
